@@ -7,7 +7,7 @@
 
 <p> The feature of primary interest in this experiment is the GC percentage. The GC percentage will be examined per gene biotype to determine which biotype has the greatest GC intensity. As background GC content is deemed as the percentage of nitrogenous content that is classified as either guanine or cytosine in DNA or RNA. High GC contents have previously been confirmed to profusely affect gene functioning. </p> 
 
-<p> Please enjoy the analysis and feel free to contact me if you have any questions at ndarby2050@Gmail.com. Thank you. </p> 
+<p> Please enjoy the analysis and feel free to contact me if you have any questions at ndarby2050@Gmail.com Thank you. </p> 
 
 
 ## Figure

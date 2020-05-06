@@ -12,7 +12,7 @@
 
 ## Figure
 
-![]{https://github.com/darbyna/Gene_Analysis/blob/master/Figure/Figure1.png?raw=true)
+![](https://github.com/darbyna/Gene_Analysis/blob/master/Figure/Figure1.png?raw=true)
 
 ## References
 <p> It is always rather pleasant to detail where help was received during a project. Please find the cited sources for this project below: 

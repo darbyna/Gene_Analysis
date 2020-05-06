@@ -11,6 +11,7 @@
 
 
 ## Figure
+
 ![]{https://github.com/darbyna/Gene_Analysis/blob/master/Figure/Figure1.png?raw=true)
 
 ## References
